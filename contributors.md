@@ -1,1 +1,1 @@
-- [Tim Eccleston](@combinatorist)
+- Tim Eccleston ([@combinatorist](https://github.com/combinatorist))
