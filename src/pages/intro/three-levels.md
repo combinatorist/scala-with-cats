@@ -16,4 +16,4 @@ In the next section I'll describe the functional programming paradigm. The remai
 
 1. Paradigms are social constructs. They change over time. Object-oriented programming as practiced todays differs from the style originally used in Simula and Smalltalk, and functional programming todays is very different from the original LISP code.
 
-2. The three level organization is just a tool for thought. In real world is more complicated.
+2. The three level organization is just a tool for thought. In the real world it is more complicated.
